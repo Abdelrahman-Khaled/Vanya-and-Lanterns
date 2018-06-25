@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1529509658 source:f:\problem solving\vanya and lanterns\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+
